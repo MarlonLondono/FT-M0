@@ -1,0 +1,23 @@
+body{
+    margin: 20px;
+}
+h1{
+    text-align: center;
+}
+#div{
+    margin: 0 10%;
+    padding: 20px;
+    width: 80%;
+    text-align: center;
+    align-content: center;
+    background-color: beige;
+    font-size: 18px;
+    text-align: justify;
+}
+#desc{
+    
+}
+
+img{
+    width: 200px;
+}
